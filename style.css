@@ -1,0 +1,128 @@
+*{
+    margin: 0;
+
+}
+body{
+    background-image: url("logo.jpg");
+    background-size: 90%;
+    background-attachment: fixed;
+
+
+}
+#header {
+    background-color: black;
+    height: 70px;
+    border: 2px solid cornsilk;
+}
+#brand{
+    background-color: black;
+    color: cornsilk;
+    width: 20%;
+    float: left;
+    text-align: left;
+    line-height: 70px;
+}
+a{
+    color: cornsilk;
+    margin: 10px;
+    
+}
+#menu {
+    text-align: center;
+    text-decoration: none;
+    float: right;
+    width: 30%;
+    line-height: 70px; 
+}
+#title{
+    text-align: center;
+    margin: 20px;
+}
+#jodhpur{
+    text-align: center;
+    margin: 40px;
+}
+#jod{
+    background:linear-gradient(45deg, darkred,black) ;
+    color: cornsilk;
+    border: 2px solid cornsilk;
+    border-radius: 50%;
+    width: 50%;
+    margin: 15px auto;
+    box-shadow: 0 0 50px black;
+}
+h3{
+    margin: 15px auto;
+    background: cornsilk;
+    width: 30%;
+    border: 2px solid black;
+    box-shadow:0 0 10px brown;
+    border-radius: 10%;
+}
+table{
+    text-align: center;
+    margin: 10px auto;
+}
+img{
+    margin: 10px;
+    border: 2px solid black;
+    border-radius: 5%;
+}
+#jaipur{
+    text-align: center;
+    margin: 40px;
+}
+#jai{
+    background:linear-gradient(45deg, darkred,black) ;
+    color: cornsilk;
+    border: 2px solid cornsilk;
+    border-radius: 50%;
+    width: 50%;
+    margin: 15px auto;
+    box-shadow: 0 0 50px black;
+}
+#udaipur{
+    text-align: center;
+    margin: 40px;
+}
+#ud{
+    background:linear-gradient(45deg, darkred,black) ;
+    color: cornsilk;
+    border: 2px solid cornsilk;
+    border-radius: 50%;
+    width: 50%;
+    margin: 15px auto;
+    box-shadow: 0 0 50px black;
+}
+#bikaner {
+    text-align: center;
+    margin: 40px;
+}
+#bika{
+    background:linear-gradient(45deg, darkred,black) ;
+    color: cornsilk;
+    border: 2px solid cornsilk;
+    border-radius: 50%;
+    width: 50%;
+    margin: 15px auto;
+    box-shadow: 0 0 50px black;
+}
+#footer {
+    background-color: black;
+    border: 2px solid cornsilk;
+    height: 120px;
+    text-align:center;
+    padding: 10px;
+    
+}
+#foot{
+    background-color: black;
+    color: cornsilk;
+    text-align: center;
+}
+#icon{
+    margin: 10px;
+}
+#i1{
+    float: left;
+}
